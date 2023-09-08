@@ -1,8 +1,5 @@
 # value-creation-chance-icome-pc
 
-## 调试中，未可用
-
-
 使用的技术：
 + [Vue 3](https://cn.vuejs.org)
 + [Typescript](https://www.typescriptlang.org/zh/docs)
@@ -20,18 +17,16 @@
 ### 安装依赖
 
 ```bash
-  enpm install 或者 enpm i
+  
 ```
 ### 运行
 + 启动项目
 
   ```bash
-    enpm  dev
+    npm install & npm dev
   ```
-
-+ 在Qi前端研发平台构建项目(https://qi.ennew.com/)
-
++ 构建
   ```bash
-    enpm run build
+    npm run build
   ``` 
 
